@@ -1,5 +1,13 @@
 # Changelog
 
+## 17.1.0
+
+### Minor Changes
+
+- [#756](https://github.com/primer/octicons/pull/756) [`2993d47`](https://github.com/primer/octicons/commit/2993d4733cbf3acdaf4286a1a5c17e0ced762967) Thanks [@Juliusschaeper](https://github.com/Juliusschaeper)! - Added `cloud` and `cloud-offline` icons
+
+* [#762](https://github.com/primer/octicons/pull/762) [`57105bb`](https://github.com/primer/octicons/commit/57105bbaffeb38de1bb5f8bc33e125bb3968a554) Thanks [@edokoa](https://github.com/edokoa)! - Add 16px `file-directory-open-fill` icon
+
 ## 17.0.0
 
 ### Major Changes
